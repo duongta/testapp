@@ -1,5 +1,3 @@
-### script.js
-
 document.addEventListener('DOMContentLoaded', (event) => {
 
     const form = document.getElementById('scoreForm');
@@ -103,3 +101,4 @@ document.addEventListener('DOMContentLoaded', (event) => {
     renderScores();
 
 });
+
